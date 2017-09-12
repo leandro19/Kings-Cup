@@ -1,1 +1,1 @@
-# smolcritter
+# Kings Cup
